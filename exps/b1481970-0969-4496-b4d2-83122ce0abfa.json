@@ -1,0 +1,71 @@
+{
+    "config": {
+        "batch_size": 50,
+        "channels": 1,
+        "cuda": true,
+        "data_augmentation_angle": 20,
+        "epochs": 1,
+        "image_size": [
+            256,
+            256
+        ],
+        "kernel_size": [
+            [
+                5,
+                5
+            ],
+            [
+                3,
+                3
+            ],
+            [
+                3,
+                3
+            ],
+            [
+                3,
+                3
+            ],
+            [
+                2,
+                2
+            ],
+            [
+                2,
+                2
+            ]
+        ],
+        "lr": 0.001,
+        "model_mode": "features-only",
+        "nn_layers": [
+            200,
+            200
+        ],
+        "no_cuda": false,
+        "no_data_augment": false,
+        "num_features": 9,
+        "offset_2630": -4,
+        "offset_811": 13,
+        "out_channels": [
+            200,
+            100,
+            50,
+            25,
+            12,
+            1
+        ],
+        "out_channels_l1": 200,
+        "seed": 1,
+        "use_images": false,
+        "weight_decay": 1e-05
+    },
+    "date": "2019-08-15 12:14:32.418196",
+    "results": {
+        "test_loss": [
+            0.09800209419828065
+        ],
+        "train_loss": [
+            0.0782160713331194
+        ]
+    }
+}
