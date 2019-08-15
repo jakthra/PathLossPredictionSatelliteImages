@@ -1,4 +1,4 @@
-This repository contains the code from the work detailed in the paper submitted to wireless transaction
+This repository contains the code from the work detailed in the paper submitted to Transactions on Wireless Communications
 
 ```
 @article{thrane_pathloss_prediction_2019,
