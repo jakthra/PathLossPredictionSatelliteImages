@@ -7,7 +7,7 @@ This repository contains the code from the work detailed in the paper submitted 
     month        = Aug,
     year         = 2019,
     publisher    = {IEEE},
-    journal      = {IEEE Wireless Transactions}
+    journal      = {IEEE Transactions on Wireless Communications}
 }
 ```
 
