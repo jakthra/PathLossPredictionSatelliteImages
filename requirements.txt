@@ -70,7 +70,7 @@ parso==0.5.1
 pathtools==0.1.2
 patsy==0.5.1
 pickleshare==0.7.5
-Pillow==6.0.0
+Pillow==6.2.0
 pkginfo==1.5.0.1
 prometheus-client==0.7.1
 promise==2.2.1
