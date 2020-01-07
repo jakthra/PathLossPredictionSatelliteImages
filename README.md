@@ -1,7 +1,7 @@
 This repository contains the code from the work detailed in the paper submitted to Transactions on Wireless Communications
 
 ```
-@article{thrane_pathloss_prediction_2019,
+@article{Thrane2020,
     author       = {Jakob Thrane, Darko Zibar, Henrik L. Christiansen},
     title        = {{Model-aided Deep Learning Method for Path Loss Prediction in Mobile Communication Systems at 2.6 GHz}},
     month        = Jan,
