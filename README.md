@@ -3,11 +3,11 @@ This repository contains the code from the work detailed in the paper submitted 
 ```
 @article{thrane_pathloss_prediction_2019,
     author       = {Jakob Thrane, Darko Zibar, Henrik L. Christiansen},
-    title        = {{Path Loss Prediction using Deep Learning utilizing Satellite Images for 5G Mobile Communication Systems}},
-    month        = Aug,
-    year         = 2019,
+    title        = {{Model-aided Deep Learning Method for Path Loss Prediction in Mobile Communication Systems at 2.6 GHz}},
+    month        = Jan,
+    year         = 2020,
     publisher    = {IEEE},
-    journal      = {IEEE Transactions on Wireless Communications}
+    journal      = {IEEE Access}
 }
 ```
 
