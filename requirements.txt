@@ -88,7 +88,7 @@ python-dateutil==2.8.0
 pytz==2019.1
 PyWavelets==1.0.3
 pywinpty==0.5.5
-PyYAML==5.1.1
+PyYAML==5.4
 pyzmq==18.0.2
 qtconsole==4.5.2
 readme-renderer==24.0
